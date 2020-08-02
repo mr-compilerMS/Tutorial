@@ -3,8 +3,6 @@
 ### Programs
 
 1. [Expantion Form of Number](Expantion.c)
-<details>
-    <summary>Click to View</summary>
     '''c
         #include"stdio.h"
         #include"conio.h"
@@ -34,5 +32,3 @@
         }
         
     '''
-                
-</details>

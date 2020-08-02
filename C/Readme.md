@@ -3,11 +3,9 @@
 ### Programs
 
 1. [Expantion Form of Number](Expantion.c)
-
-<details><summary>CLICK ME</summary>
+-<details><summary>CLICK ME</summary>
 <p>
 
-### MEghya
 ```c++
 #include"stdio.h"
 #include"conio.h"

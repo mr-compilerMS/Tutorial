@@ -1,9 +1,9 @@
 # C Language
 
-### Programs
+## Programs
 
-1. [Expantion Form of Number](Expantion.c)
-<details>
+### [Expantion Form of Number](Expantion.c)
+<details><summary>View Code</summary>
 <p>
 
 ```c++

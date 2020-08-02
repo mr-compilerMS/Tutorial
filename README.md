@@ -3,6 +3,6 @@
 Here are some simple codes for students
 
 ## Languages:
-- [](C/Readme.md)C Language
+- [C Language](C/Readme.md)
 - Java Language
 - Python Language

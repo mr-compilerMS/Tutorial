@@ -22,5 +22,5 @@ int main(){
     {
         printf(" %d +",arr[j]);
     }
-    getch();
+    getch(); 
 }

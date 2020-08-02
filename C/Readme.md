@@ -5,7 +5,7 @@
 1. [Expantion Form of Number](Expantion.c)
 <details>
     <summary>Click to View</summary>
-    <code>
+    '''c
         #include"stdio.h"
         #include"conio.h"
         
@@ -33,6 +33,6 @@
             getch(); 
         }
         
-    </code>
+    '''
                 
 </details>

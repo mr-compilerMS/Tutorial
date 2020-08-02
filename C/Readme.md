@@ -5,7 +5,7 @@
 ### [Expantion Form of Number](Expantion.c)
 <details><summary>View Code</summary>
 <p>
-<code>
+
 ```c++
 #include"stdio.h"
 #include"conio.h"
@@ -33,6 +33,5 @@ int main(){
     getch(); 
 }
 ```
-</coode>
 </p>
 </details>

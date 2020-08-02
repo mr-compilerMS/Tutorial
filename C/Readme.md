@@ -6,6 +6,7 @@
 
 <details><summary>CLICK ME</summary>
 <p>
+
     ```c
     #include"stdio.h"
     #include"conio.h"
@@ -33,7 +34,6 @@
         }
         getch(); 
     }
-    
     ```
 </p>
 </details>

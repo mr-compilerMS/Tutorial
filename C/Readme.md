@@ -3,8 +3,7 @@
 ### Programs
 
 1. [Expantion Form of Number](Expantion.c)
-<p>
-<details><summary>CLICK ME</summary>
+<details>
 <p>
 
 ```c++
@@ -36,4 +35,3 @@ int main(){
 ```
 </p>
 </details>
-</p>
